@@ -1,4 +1,4 @@
-En esta carpeta se deben dejar todos los paquetes que se desean instalar
+# En esta carpeta se deben dejar todos los paquetes que se desean instalar
 
 Se deberán incluir:
 * El paquete principal de EAP
